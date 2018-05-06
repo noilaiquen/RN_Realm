@@ -1,0 +1,1 @@
+export default plansData = '[{"id":"1608","name":"03\/7\/2017","round":"2017-07","storeCode":"SMS0051"},{"id":"1607","name":"03\/7\/2017","round":"2017-07","storeCode":"SMS0050"}]';
